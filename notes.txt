@@ -1,0 +1,6 @@
+First we have to get know that which api is needed for the application or from where we need to fetch the data !
+//getting the AP
+So its the weather app so we have to fetch the data from the weather api
+
+In order to do so. we have to get the data from the api...
+
